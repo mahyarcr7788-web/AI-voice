@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VoxAura - Realistic AI Voice Studio",
+  "description": "A premium text-to-speech application powered by Gemini 2.5 TTS, featuring high-fidelity neural voices, multi-speaker support, and real-time audio visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
